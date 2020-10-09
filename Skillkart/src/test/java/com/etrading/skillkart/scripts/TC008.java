@@ -8,7 +8,7 @@ public class TC008 {
 	@Test
 	public void test()
 	{
-		Reporter.log("test",true);
+		Reporter.log("shahid",true);
 	}
 	
 }
